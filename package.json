@@ -49,6 +49,7 @@
     "semver": "5.5.0",
     "verdaccio-audit": "1.0.0",
     "verdaccio-github-oauth-ui": "^1.5.2",
+    "verdaccio-auth-gitlab": "1.2.0",
     "verdaccio-htpasswd": "0.2.2"
   },
   "devDependencies": {
